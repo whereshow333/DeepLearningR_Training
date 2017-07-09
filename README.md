@@ -1,1 +1,2 @@
 # DeepLearningR_Training
+這是記錄使用R練習深度學習的小地方
